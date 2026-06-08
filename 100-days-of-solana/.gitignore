@@ -29,3 +29,4 @@ pnpm-debug.log*
 # lock files (optional, uncomment if you do not want to track)
 # package-lock.json
 # yarn.lock
+wallet.json
